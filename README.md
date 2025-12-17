@@ -21,3 +21,15 @@ All protocol smart contracts are located in the src/ directory.
 
 ## Disclaimer
 This project is under active development. Testnet use only.
+## Testnet Deployment
+
+Network: BSC Testnet (Chapel)
+
+| Contract | Address |
+|---------|---------|
+| FinnexceCore | 0x95D9cd3576145c6600fdb911584033fE667e6dE6 |
+| Staking | 0x446689C6F6abDf12bfB2D90E9D18f042f4CBcE97|
+| Treasury | 0x0A29996Cc90d4923936c46e584acB5D0A55718f1 |
+
+### Sample Transactions
+- Deployment: https://testnet.bscscan.com/tx/0x...
