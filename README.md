@@ -21,6 +21,7 @@ All protocol smart contracts are located in the src/ directory.
 
 ## Disclaimer
 This project is under active development. Testnet use only.
+
 ## Testnet Deployment
 
 Network: BSC Testnet (Chapel)
@@ -33,3 +34,31 @@ Network: BSC Testnet (Chapel)
 
 ### Sample Transactions
 - Deployment: https://testnet.bscscan.com/tx/0x...
+
+### Sample Transactions
+
+- Deploy FinnexceCore  
+  https://testnet.bscscan.com/tx/0x95D9cd3576145c6600fdb911584033fE667e6dE6
+
+- Create Pool  
+  https://testnet.bscscan.com/tx/0x446689C6F6abDf12bfB2D90E9D18f042f4CBcE97
+
+- Set Treasury  
+  https://testnet.bscscan.com/tx/0x0A29996Cc90d4923936c46e584acB5D0A55718f1
+
+  ## Roadmap
+
+### Phase 1 – MVP (Completed)
+- Core / Staking / Treasury contracts
+- Testnet deployment
+- Pool management
+
+### Phase 2 – Hardening
+- Security review
+- Gas optimization
+- Fee routing refinement
+
+### Phase 3 – Mainnet
+- Audit
+- Mainnet deployment
+- Governance design
