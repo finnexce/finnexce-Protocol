@@ -38,13 +38,13 @@ Network: BSC Testnet (Chapel)
 ### Sample Transactions
 
 - Deploy FinnexceCore  
-  https://testnet.bscscan.com/tx/0x95D9cd3576145c6600fdb911584033fE667e6dE6
+  https://testnet.bscscan.com/address/0x95D9cd3576145c6600fdb911584033fE667e6dE6
 
 - Create Pool  
-  https://testnet.bscscan.com/tx/0x446689C6F6abDf12bfB2D90E9D18f042f4CBcE97
+  https://testnet.bscscan.com/address/0x446689C6F6abDf12bfB2D90E9D18f042f4CBcE97
 
 - Set Treasury  
-  https://testnet.bscscan.com/tx/0x0A29996Cc90d4923936c46e584acB5D0A55718f1
+  https://testnet.bscscan.com/address/0x0A29996Cc90d4923936c46e584acB5D0A55718f1
 
   ## Roadmap
 
